@@ -1,4 +1,4 @@
-In this project, we provide feedback vvalues to the form and it gets displayed in the feedback section of our website
+In this project, we provide feedback value in the form and it gets displayed in the feedback section of our website
 
 Made with HTML, MySQL and PHP
 
